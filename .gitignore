@@ -1,0 +1,13 @@
+your-repo/
+├── index.html
+├── styles.css
+├── script.js
+├── README.md
+├── LICENSE
+├── .gitignore
+└── assets/
+    ├── img-01.jpg
+    ├── img-02.jpg
+    ├── img-03.jpg
+    ├── img-04.jpg
+    └── cv.pdf
